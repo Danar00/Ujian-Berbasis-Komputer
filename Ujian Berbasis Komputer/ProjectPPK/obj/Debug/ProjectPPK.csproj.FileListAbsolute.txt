@@ -1,0 +1,43 @@
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.exe.config
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.exe
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.pdb
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\MaterialSkin.dll
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csprojAssemblyReference.cache
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Form1.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Properties.Resources.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.GenerateResource.cache
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.CoreCompileInputs.cache
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.CopyComplete
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.exe
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.pdb
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Login.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.RegisterMurid.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.RegisterGuru.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.HomeMurid.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.HomeGuru.resources
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\MySql.Data.dll
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\Google.Protobuf.dll
+F:\Documents\PPK semester5\ProjectPPK\ProjectPPK\bin\Debug\MySql.Data.xml
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.exe.config
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.exe
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.pdb
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\MaterialSkin.dll
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\MySql.Data.dll
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\Google.Protobuf.dll
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\bin\Debug\MySql.Data.xml
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csprojAssemblyReference.cache
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Form1.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.HomeGuru.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.HomeMurid.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Login.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Properties.Resources.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.RegisterGuru.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.RegisterMurid.resources
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.GenerateResource.cache
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.CoreCompileInputs.cache
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.CopyComplete
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.exe
+D:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.pdb
+E:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.exe
+E:\TIK UB\Semester 5\PPK\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.pdb
